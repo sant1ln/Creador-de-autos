@@ -39,15 +39,7 @@ namespace autos.entidades
             set{categoria = value;}
         }
         public Transmiciones TipoTransmicion { get => tipoTransmicion; set => tipoTransmicion = value; }
-        
-
-        public bool esRapido(int cilindraje)
-        {
-            if(cilindraje >= 2000){
-                return true;
-            }
-            return false;
-        }
+      
     }
 
 

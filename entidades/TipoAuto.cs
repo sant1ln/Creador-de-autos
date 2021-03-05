@@ -6,6 +6,7 @@ namespace autos.entidades
         Sport,
         HatchBack,
         Truck,
-        SUV
+        SUV,
+        Compact,
     }
 }
