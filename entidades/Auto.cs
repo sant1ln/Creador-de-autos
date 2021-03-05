@@ -38,8 +38,10 @@ namespace autos.entidades
             get {return categoria;}
             set{categoria = value;}
         }
-        public Transmiciones TipoTransmicion { get => tipoTransmicion; set => tipoTransmicion = value; }
-      
+        public Transmiciones TipoTransmicion {
+             get {return tipoTransmicion;} 
+             set {tipoTransmicion = value; }
+        }
     }
 
 
