@@ -1,0 +1,16 @@
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\bin\Debug\net5.0\autos.exe
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\bin\Debug\net5.0\autos.deps.json
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\bin\Debug\net5.0\autos.runtimeconfig.json
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\bin\Debug\net5.0\autos.runtimeconfig.dev.json
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\bin\Debug\net5.0\autos.dll
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\bin\Debug\net5.0\ref\autos.dll
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\bin\Debug\net5.0\autos.pdb
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\autos.csprojAssemblyReference.cache
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\autos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\autos.AssemblyInfoInputs.cache
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\autos.AssemblyInfo.cs
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\autos.csproj.CoreCompileInputs.cache
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\autos.dll
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\ref\autos.dll
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\autos.pdb
+C:\Users\sloperan\OneDrive - IG Services S.A.S\Documentos\LerningC#\autos\obj\Debug\net5.0\autos.genruntimeconfig.cache
